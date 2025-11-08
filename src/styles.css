@@ -1,0 +1,11 @@
+.dropdown-container:hover{
+    cursor: pointer;
+}
+
+.visible{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
